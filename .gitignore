@@ -1,0 +1,4 @@
+venv/
+.ipynb_checkpoints/
+output.txt
+english_to_french_translation_LSTM.ipynb
